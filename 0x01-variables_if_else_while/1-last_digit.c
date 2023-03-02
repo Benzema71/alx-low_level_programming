@@ -1,6 +1,6 @@
 /*
  * File: 1-last_digit.c
- * Auth: Kipronoh Vincent
+ * Auth: Kodwo Bediako Dadson
  */
 
 #include <stdlib.h>
